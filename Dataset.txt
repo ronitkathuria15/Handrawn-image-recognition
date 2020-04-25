@@ -1,0 +1,1 @@
+Download the dataset as .npy files from https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap?pli=1
